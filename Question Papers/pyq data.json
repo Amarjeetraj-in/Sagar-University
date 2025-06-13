@@ -1,88 +1,408 @@
 {"data":[{
-  "Paper Code" : "LAW-CC-611",
-  "Paper Name" : "Indirect Taxation",
-  "Semester" : "6th",
-  "Year" : 2025,
-  "Course" : "LL.B.",
-  "Link" : null
-},
-{
-  "Paper Code" : "LAW-CC-614",
-  "Paper Name" : "Intellectual Property-III",
-  "Semester" : "6th",
-  "Year" : 2025,
-  "Course" : "LL.B.",
-  "Link" : null
-},
-{
-  "Paper Code" : "LAW-CC-615",
-  "Paper Name" : "Professional ethics and professional accounting system",
-  "Semester" : "6th",
-  "Year" : 2025,
-  "Course" : "LL.B.",
-  "Link" : null
-},
-{
-  "Paper Code" : "LAW-CC-616",
-  "Paper Name" : "Computer Education-II",
-  "Semester" : "6th",
-  "Year" : 2025,
-  "Course" : "LL.B.",
-  "Link" : null
-},
-{
-  "Paper Code" : "COM-DSM-611",
-  "Paper Name" : "Goods and service Tax",
-  "Semester" : "6th",
-  "Year" : 2025,
-  "Course" : "B.Com.",
-  "Link" : null
-},
-{
-  "Paper Code" : "COM-DSM-612",
-  "Paper Name" : "Auditing",
-  "Semester" : "6th",
-  "Year" : 2025,
-  "Course" : "B.Com.",
-  "Link" : null
-},
-{
-  "Paper Code" : "COM-MDM-611",
-  "Paper Name" : "Tax planning and management",
-  "Semester" : "6th",
-  "Year" : 2025,
-  "Course" : "B.Com.",
-  "Link" : null
-},
-{
-  "Paper Code" : "COM-SEC-611",
-  "Paper Name" : "E-Commerce",
-  "Semester" : "6th",
-  "Year" : 2025,
-  "Course" : "B.Com.",
-  "Link" : null
-},
-{
-  "Paper Code" : "AIH-DSM-611",
-  "Paper Name" : "Political History of india (7th Century A.D. to 1200 A.D.",
-  "Semester" : "6th",
-  "Year" : 2025,
+  "Paper Code" : "AIH-AEC-311",
+  "Paper Name" : "Indian Culture : A Perspective for Tourism",
+  "Semester" : "3rd",
+  "Year" : 2024,
   "Course" : "B.A.",
-  "Link" : null
+  "Link" : "https://drive.google.com/file/d/15ICLiUyQrghtpk5hOHmLLlMoR0WvZBe0/preview"
 },
 {
-  "Paper Code" : "ECO-DSM-611",
-  "Paper Name" : "Indian Economy",
-  "Semester" : "6th",
-  "Year" : 2025,
-  "Course" : "B.A. / B.Sc / B.A. B.Ed.",
-  "Link" : null
+  "Paper Code" : "AIH-AEC-511",
+  "Paper Name" : "Meseums of India",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.A.",
+  "Link" : "https://drive.google.com/file/d/1_nvnMLRozyzY4MtaxVwZl4wjMxn9uhLE/preview"
 },
 {
-  "Paper Code" : "IEDU-CC-611",
-  "Paper Name" : "Assesment of Learning",
-  "Semester" : "6th",
-  "Year" : 2025,
-  "Course" : "B.A. B.Ed. / B.Sc. B.Ed.",
-  "Link" : null
+  "Paper Code" : "AIH-DSM-311",
+  "Paper Name" : "Political history of India (Sixth Century B.C. to Second century B.C.)",
+  "Semester" : "3rd",
+  "Year" : 2024,
+  "Course" : "B.A.",
+  "Link" : "https://drive.google.com/file/d/1qzEJlsdfXJa_IdJDAbQy3fcjMO07mtgi/preview"
+},
+{
+  "Paper Code" : "AIH-DSM-511",
+  "Paper Name" : "Political history of iIndia (319 A.D. to 7th Century A.D.)",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.A.",
+  "Link" : "https://drive.google.com/file/d/1ITdlD0I8TUo5wfEYRNOJ9ZGsB8kMiJ6k/preview"
+},
+{
+  "Paper Code" : "BOT-DSM-111",
+  "Paper Name" : "Biodiversity (Microbes, ALGAE, Fungi and Archeogoniate)",
+  "Semester" : "1st",
+  "Year" : 2024,
+  "Course" : "B.Sc. / B.Sc. B.Ed. / ITEP B.Sc. B.Ed.",
+  "Link" : "https://drive.google.com/file/d/1KGq61IVfqeVdHrlNhf9R-GnUs-Fhqhik/preview"
+},
+{
+  "Paper Code" : "BOT-DSM-511",
+  "Paper Name" : "Plant Physiology and Metabolism",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.Sc. / B.Sc. B.Ed.",
+  "Link" : "https://drive.google.com/file/d/1CTg_-otM9GWldtq65oSHpggryw-QOQ0x/preview"
+},
+{
+  "Paper Code" : "BUM-DSM-111",
+  "Paper Name" : "Principle of management",
+  "Semester" : "1st",
+  "Year" : 2024,
+  "Course" : "B.B.A.",
+  "Link" : "https://drive.google.com/file/d/1H431iiNAzSdu7YpF0xIe4_V6epfByl_i/preview"
+},
+{
+  "Paper Code" : "CHE-DSM-111",
+  "Paper Name" : "Fundamentals of Inorganic and Physical Chemistry",
+  "Semester" : "1st",
+  "Year" : 2024,
+  "Course" : "B.Sc. / B.Sc. B.Ed. / ITEP B.Sc. B.Ed.",
+  "Link" : "https://drive.google.com/file/d/1SKQzPFLe0Q-TEjVV2D7n10w5LZrxeKoP/preview"
+},
+{
+  "Paper Code" : "CHE-DSM-311",
+  "Paper Name" : "Physical and Organic Chemistry",
+  "Semester" : "3rd",
+  "Year" : 2024,
+  "Course" : "B.Sc. / B.Sc. B.Ed. / ITEP B.Sc. B.Ed.",
+  "Link" : "https://drive.google.com/file/d/1Rv9jj2nMJO9RZDvVacZzO9SzU-lCSnaF/preview"
+},
+{
+  "Paper Code" : "CHE-DSM-511",
+  "Paper Name" : "Chemistry of d-block Elements, Quantum Chemistry and Spectroscopy",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.Sc. /B.Sc. B.Ed.",
+  "Link" : "https://drive.google.com/file/d/1z6gvcPZ1LgCrQeRlEyuotOy6IZ56OHbm/preview"
+},
+{
+  "Paper Code" : "CHE-SEC-121",
+  "Paper Name" : "Spectroscopy",
+  "Semester" : "1st",
+  "Year" : 2024,
+  "Course" : "M.Sc.",
+  "Link" : "https://drive.google.com/file/d/1p5k94F33JFigOJME3oDi-UDld4KO_zuu/preview"
+},
+{
+  "Paper Code" : "COM-AEC-311",
+  "Paper Name" : "Corporate Social Responsibility",
+  "Semester" : "3rd",
+  "Year" : 2024,
+  "Course" : "B.Com.",
+  "Link" : "https://drive.google.com/file/d/1n65SIhXM_Yn9B77aEy1IyGx084Eo6fcM/preview"
+},
+{
+  "Paper Code" : "COM-AEC-511",
+  "Paper Name" : "Insurance",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.Com.",
+  "Link" : "https://drive.google.com/file/d/1NuerY0yNfxOxGH1v7pKotwoz-xZJuF70/preview"
+},
+{
+  "Paper Code" : "COM-DSM-311",
+  "Paper Name" : "Business Statistics",
+  "Semester" : "3rd",
+  "Year" : 2024,
+  "Course" : "B.Com. / ITEP B.Com. B.Ed.",
+  "Link" : "https://drive.google.com/file/d/1hPleSR-mWQuToq3Ui5dBnZmnkYFoj_eU/preview"
+},
+{
+  "Paper Code" : "COM-DSM-312",
+  "Paper Name" : "Strategic Management",
+  "Semester" : "3rd",
+  "Year" : 2024,
+  "Course" : "B.Com. / ITEP B.Com. B.Ed.",
+  "Link" : "https://drive.google.com/file/d/12twpLl2lbVjb5UvcLeY54cN6zSlc-BiY/preview"
+},
+{
+  "Paper Code" : "COM-DSM-511",
+  "Paper Name" : "Income Tax Law and Practice",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.Com.",
+  "Link" : "https://drive.google.com/file/d/1ZuaaRlYfnCD-_V9rtV7trJAQd8SaPooP/preview"
+},
+{
+  "Paper Code" : "COM-DSM-512",
+  "Paper Name" : "Financial Marketing Operations",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.Com.",
+  "Link" : "https://drive.google.com/file/d/1cxX-Ro8PEAN6S4VzDFfQ6_PM6mwLvD1V/preview"
+},
+{
+  "Paper Code" : "COM-MDM-311",
+  "Paper Name" : "Banking and Micro Finance",
+  "Semester" : "3rd",
+  "Year" : 2024,
+  "Course" : "B.Com.",
+  "Link" : "https://drive.google.com/file/d/1Sf_tqMTYZYCqx7wCA-gdEUU7V2kvJfrW/preview"
+},
+{
+  "Paper Code" : "COM-MDM-511",
+  "Paper Name" : "Management Concepts and Organizational Behaviour",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.Com.",
+  "Link" : "https://drive.google.com/file/d/1gAhcJKdyuIPicUgV1lXG0ksy1bqcZXiA/preview"
+},
+{
+  "Paper Code" : "CRM-AEC-511",
+  "Paper Name" : "Vigilance and Internal Security Management",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.A.",
+  "Link" : "https://drive.google.com/file/d/1BOanM3uwvHBszr3GLrJSEOeByaLVHS7n/preview"
+},
+{
+  "Paper Code" : "CRM-DSM-511",
+  "Paper Name" : "Victimology",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.A.",
+  "Link" : "https://drive.google.com/file/d/1GbHgEOyg4exWHy1G4a2kBjM83yO3hu0r/preview"
+},
+{
+  "Paper Code" : "CSA-AEC-111",
+  "Paper Name" : "Fundamental of Computer Science",
+  "Semester" : "1st",
+  "Year" : 2022,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1mAquqaVWNMiUo_L9VHIYVhYPIebqUT6n/preview"
+},
+{
+  "Paper Code" : "CSA-AEC-111",
+  "Paper Name" : "Fundamental of Computer Science",
+  "Semester" : "1st",
+  "Year" : 2023,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1zCvd88M8SPcpNkHJogvzAat8QcI1QOT4/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-111",
+  "Paper Name" : "Programming using C",
+  "Semester" : "1st",
+  "Year" : 2022,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1ph3ijULJ5mBCMQOEGkrigSc8jFgFJilU/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-113",
+  "Paper Name" : "PC Softwares",
+  "Semester" : "1st",
+  "Year" : 2022,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1iQxTBAtRZb8aAAckptoura0VI5L_t8Sw/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-115",
+  "Paper Name" : "Mathematics for Computer Science",
+  "Semester" : "1st",
+  "Year" : 2022,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1R4tk7ZHMcorKuWEhbXi6kJwq0JEKH0fk/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-115",
+  "Paper Name" : "Mathematics for Computer Science",
+  "Semester" : "1st",
+  "Year" : 2023,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1cUubNGArJNUGCEqiMBmSY3fMBJggl5B6/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-211",
+  "Paper Name" : "Data Structure",
+  "Semester" : "2nd",
+  "Year" : 2023,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/10Jp5RgJ7pbErqWjWKL22mMt0a8pkApT_/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-211",
+  "Paper Name" : "Data Structure",
+  "Semester" : "2nd",
+  "Year" : 2024,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1CXMYPnF6_58rJif2X6Fbo9AhcfvXpZWN/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-213",
+  "Paper Name" : "OOPS Using C++",
+  "Semester" : "2nd",
+  "Year" : 2023,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1HpOdkT2gdIcpKwhrsBA2xzByIuHfa-gA/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-213",
+  "Paper Name" : "OOPS Using C++",
+  "Semester" : "2nd",
+  "Year" : 2024,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1-ZbxCuQTrsR8hwTjAak8GYbJXbF7taGs/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-215",
+  "Paper Name" : "Computer Organization",
+  "Semester" : "2nd",
+  "Year" : 2023,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1Zy7X_TiSqbW9AkzGH31UHdPMz82X1dyw/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-215",
+  "Paper Name" : "Computer Organization",
+  "Semester" : "2nd",
+  "Year" : 2024,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/143FqtsA3P0AJxtGoyZLDtZa-pLdgY42s/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-311",
+  "Paper Name" : "Php Programming",
+  "Semester" : "3rd",
+  "Year" : 2023,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1cp-JbuCfZpQ7vbw9GWZymJvgDNmKEJNi/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-313",
+  "Paper Name" : "Database Management System",
+  "Semester" : "3rd",
+  "Year" : 2023,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1bYRX82p7KrnzHQtIPc_4NMNQ4h3If8R2/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-315",
+  "Paper Name" : "Fundamental of Computer Algorithms",
+  "Semester" : "3rd",
+  "Year" : 2023,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1UfQLjh75CNCJSB2mZlQziwFWoSUQcdZi/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-411",
+  "Paper Name" : "JAVA Programming",
+  "Semester" : "4th",
+  "Year" : 2024,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1_LJe6-HjVFHMXp6eOEfB3-GY5fuiCIKf/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-413",
+  "Paper Name" : "Python Programming",
+  "Semester" : "4th",
+  "Year" : 2024,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1mX_u9Pop3AOjHIqROxE9XWOYKctofVAo/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-511",
+  "Paper Name" : "R Programming",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1COImhEiyzp0OaOCLoBzYk711kqUdEePh/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-514",
+  "Paper Name" : "Computer Graphics",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1yysQ59fIfHH95TZQwRYMWPL4A_OerRp8/preview"
+},
+{
+  "Paper Code" : "CSA-DSM-515",
+  "Paper Name" : "Data Analytics",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.C.A.",
+  "Link" : "https://drive.google.com/file/d/1Heg3mnnuUCMOSq0Hz6ieaxagOyyd3Gcb/preview"
+},
+{
+  "Paper Code" : "ECO-AEC-511",
+  "Paper Name" : "Research Methodology - I",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.A. / B.Sc. / B.A. B.Ed.",
+  "Link" : "https://drive.google.com/file/d/1-_-UHtd1eUdIbOXv4Mx9hiDHKSFR0xY-/preview"
+},
+{
+  "Paper Code" : "ECO-DSM-111",
+  "Paper Name" : "Statistics and Quantitative Method",
+  "Semester" : "1st",
+  "Year" : 2023,
+  "Course" : "B.A. / B.Sc. / B.A. B.Ed.",
+  "Link" : "https://drive.google.com/file/d/1fOOlY25cM1mO45LHJlAIdQ_3-O1TIBs2/preview"
+},
+{
+  "Paper Code" : "ECO-DSM-111",
+  "Paper Name" : "Statistics and Quantitative Method",
+  "Semester" : "1st",
+  "Year" : 2024,
+  "Course" : "B.A. / B.Sc. / B.A. B.Ed.",
+  "Link" : "https://drive.google.com/file/d/1epVgiZz5kxA4mjH6e9tSnq8avQdTzgTx/preview"
+},
+{
+  "Paper Code" : "ECO-DSM-311",
+  "Paper Name" : "Principles of Macro Economics",
+  "Semester" : "3rd",
+  "Year" : 2024,
+  "Course" : "B.A. / B.Sc. / B.A. B.Ed. / ITEP B.A. B.Ed.",
+  "Link" : "https://drive.google.com/file/d/1_YVGM8naAWFtMti71fVtkgdiKxsx0dfu/preview"
+},
+{
+  "Paper Code" : "ECO-DSM-511",
+  "Paper Name" : "International Economics",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.A. / B.Sc. / B.A. B.Ed.",
+  "Link" : "https://drive.google.com/file/d/13ouuRqExeZqaEXBXPnJJgZ0g_uflENSF/preview"
+},
+{
+  "Paper Code" : "EEL-AEC-311",
+  "Paper Name" : "Media and Communication",
+  "Semester" : "3rd",
+  "Year" : 2024,
+  "Course" : "B.A. / B.A. B.Ed.",
+  "Link" : "https://drive.google.com/file/d/1WipVS-hNAFJY74jE-eVKGqZit4wJ0rUh/preview"
+},
+{
+  "Paper Code" : "EEL-DSM-311",
+  "Paper Name" : "British Poetry and Drama : 17th and 18th Centuries",
+  "Semester" : "3rd",
+  "Year" : 2024,
+  "Course" : "B.A. / B.A. B.Ed. / ITEP B.A. B.Ed.",
+  "Link" : "https://drive.google.com/file/d/1KtE77WHklKJfANnM08oTO8DEumi5x0br/preview"
+},
+{
+  "Paper Code" : "EEL-DSM-511",
+  "Paper Name" : "British Romantic Literature",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.A. / B.A. B.Ed.",
+  "Link" : "https://drive.google.com/file/d/18Zc7HtZpHZ12WgoWAjglhevapeiLy57N/preview"
+},
+{
+  "Paper Code" : "FPF-DSM-512",
+  "Paper Name" : "Advertising Profession and Practice",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.F.A.",
+  "Link" : "https://drive.google.com/file/d/1RQ3JFw7xssdP_WKw38ugqtRGEiqLfJVI/preview"
+},
+{
+  "Paper Code" : "GOG-AEC-311",
+  "Paper Name" : "Plane Table Surveying",
+  "Semester" : "5th",
+  "Year" : 2024,
+  "Course" : "B.A. / B.Sc. / B.A. B.Ed.",
+  "Link" : "https://drive.google.com/file/d/1AexDkbfJ9v7nz9h9wcgmuXgwQLqOtfht/preview"
 }]}
